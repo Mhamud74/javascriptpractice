@@ -16,16 +16,15 @@ git push -u origin master
 
 vue js 
 
-
-echo "# vuejspractices" >> README.md
+echo "# vuejspractice" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
-git remote add origin https://github.com/Mhamud74/vuejspractices.git
+git remote add origin https://github.com/Mhamud74/vuejspractice.git
 git push -u origin master
                 
 
 …or push an existing repository from the command line
 
-git remote add origin https://github.com/Mhamud74/vuejspractices.git
+git remote add origin https://github.com/Mhamud74/vuejspractice.git
 git push -u origin master
