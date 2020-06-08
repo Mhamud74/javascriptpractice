@@ -1,0 +1,14 @@
+.para {
+	color: #e6b4b4;
+	text-shadow: 2px 2px black;
+	background: #040404;
+	padding: 40px 2px;
+}
+h1 {
+	color: red;
+	background: aquamarine;
+	width: 450px;
+	text-align: center;
+	padding: 10px;
+	text-shadow: 2px 2px black;
+}
